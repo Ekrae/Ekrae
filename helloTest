@@ -1,0 +1,14 @@
+using UnityEngine;
+using General;
+
+public class Test : Monobehavior
+{
+  private void hello()
+  {
+  print("hello world")
+  }
+  void Start()
+  {
+  hello()
+  }
+}
